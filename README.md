@@ -8,7 +8,7 @@ This is a personal portfolio made using ReactJS.
 ## Steps to Follow to Clone the repository
 ### Clone the repository and move to the correct folder
 ```bash
-git clone 
+git clone https://github.com/yukti-singhal/ReactJS-Portfolio
 cd ReactJS-Portfolio
 ```
 ### Install the dependencies and packages
@@ -24,19 +24,6 @@ Running this command will install all the dependencies mentioned in `package.jso
 npm start
 ```
 This will start your app on the server. If you see a message like this, it means your application is successfully running on http://localhost:3000
-```bash
-Compiled successfully!
-
-You can now view portfolio in the browser.
-
-  Local:            http://localhost:3000
-  On Your Network:  http://192.168.1.6:3000
-
-Note that the development build is not optimized.
-To create a production build, use npm run build.
-
-webpack compiled successfully
-```
 
 
 
